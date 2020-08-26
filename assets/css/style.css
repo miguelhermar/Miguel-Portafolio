@@ -852,6 +852,11 @@ a:hover {
   color: #0078ff;
 }
 
+.work-content .w-remote {
+  color: #0078ff;
+  font-size: .6rem;
+}
+
 .work-content .w-like {
   font-size: 2.5rem;
   color: #0078ff;
