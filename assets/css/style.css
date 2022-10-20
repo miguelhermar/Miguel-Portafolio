@@ -819,6 +819,14 @@ a:hover {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.ihwebpage__link:hover {
+    text-decoration: underline;
+}
+
+.gengoprofile__link:hover {
+    text-decoration: underline;
+}
+
 .work-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
