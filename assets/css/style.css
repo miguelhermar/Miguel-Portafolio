@@ -819,7 +819,15 @@ a:hover {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.ihwebpage__link {
+    text-decoration: underline;
+}
+
 .ihwebpage__link:hover {
+    text-decoration: underline;
+}
+
+.ihwebpage__link {
     text-decoration: underline;
 }
 
